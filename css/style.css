@@ -49,3 +49,8 @@ footer {
 	text-align: center;
 	padding: 20px;
 }
+
+.project img {
+    width: 400px;
+    height: auto;
+}
