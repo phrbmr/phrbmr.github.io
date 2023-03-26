@@ -54,3 +54,20 @@ footer {
     width: 400px;
     height: auto;
 }
+
+/* Certificates Styles */
+
+#certificates {
+    padding: 20px;
+}
+
+.certificate {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.certificate h3 {
+    font-size: 20px;
+    margin-top: 0;
+}
