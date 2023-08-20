@@ -16,11 +16,13 @@ Insert your introduction here. This can include information about your education
 
 Here are some of the data science projects I have worked on:
 
-### Project Title 1
+### Cursos
+### Mini-Projeto 1 DSA - Análise Exploratória de Dados Sócio-Econômicos
 
-- **Description:** Insert project description here.
-- **Tools used:** List the tools and technologies you used for this project, such as Python, pandas, scikit-learn, etc.
-- **Link to project:** Insert a link to your project code or documentation, if available.
+- **Description:** Exercício de Análise Exploratória de Dados Sócio-Econômicos, dentro do curso de Big Data Analytics com R e Microsoft Azure Machine Learning.
+- **Data Source:** Fonte de dados original: https://data.world/laurel/world-happiness-report-data
+- **Tools used:** O estudo foi elaborado utilizando R, em especial os pacotes dplyr e ggplot2. 
+- **Link to project:** [Mini-Projeto 1](Miniprojeto1.html)
 
 ### Project Title 2
 
