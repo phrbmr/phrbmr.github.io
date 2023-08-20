@@ -22,7 +22,7 @@ Here are some of the data science projects I have worked on:
 - **Description:** Exercício de Análise Exploratória de Dados Sócio-Econômicos, dentro do curso de Big Data Analytics com R e Microsoft Azure Machine Learning.
 - **Data Source:** Fonte de dados original: https://data.world/laurel/world-happiness-report-data
 - **Tools used:** O estudo foi elaborado utilizando R, em especial os pacotes dplyr e ggplot2. 
-- **Link to project:** [Mini-Projeto 1](Miniprojeto1.html)
+- **Link to project:** [Mini-Projeto 1](main\Miniprojeto1.html)
 
 ### Project Title 2
 
