@@ -1,6 +1,6 @@
-# My Data Science Portfolio
+# My Data Science Portfolio (UNDER CONSTRUCTION)
 
-This is my data science portfolio, where I showcase my data science projects and skills.
+This is my (Under Construction) data science portfolio, where I showcase my data science studies, projects and skills.
 
 ## Table of Contents
 
@@ -16,12 +16,12 @@ Insert your introduction here. This can include information about your education
 
 Here are some of the data science projects I have worked on:
 
-### Cursos
-### Mini-Projeto 1 DSA - Análise Exploratória de Dados Sócio-Econômicos
+### Courses
+### Mini-Projeto 1 DSA - Exploratory Data Analysis of Socio-Economic Data
 
-- **Description:** Exercício de Análise Exploratória de Dados Sócio-Econômicos, dentro do curso de Big Data Analytics com R e Microsoft Azure Machine Learning.
-- **Data Source:** Fonte de dados original: https://data.world/laurel/world-happiness-report-data
-- **Tools used:** O estudo foi elaborado utilizando R, em especial os pacotes dplyr e ggplot2. 
+- **Description:** Exercise of Exploratory Data Analysis utilizing Socio-Economic Data, within the course of "Big Data Analytics com R e Microsoft Azure Machine Learning" from Data Science Academy.
+- **Data Source:** https://data.world/laurel/world-happiness-report-data
+- **Tools used:** The study was made using R in the RStudio enviroment, with dplyr and ggplot2 packages.
 - **Link to project:** [Mini-Projeto 1](MiniProjeto1.html)
 
 ### Project Title 2
