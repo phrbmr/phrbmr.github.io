@@ -1,5 +1,5 @@
 # Portfólio
-[English](../index.md) | [Português](pt/indexpt.md)
+[English](../index.md) | [Português](indexpt.md)
 
 # Índice
 - [Sobre mim](#about-me)
