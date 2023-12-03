@@ -1,6 +1,6 @@
-# My Data Science Portfolio (UNDER CONSTRUCTION)
+# Personal Portfolio (UNDER CONSTRUCTION)
 
-This is my (Under Construction) data science portfolio, where I showcase my data science studies, projects and skills.
+This is my (Under Construction) portfolio, where I showcase studies, projects and skills.
 
 ## Table of Contents
 
