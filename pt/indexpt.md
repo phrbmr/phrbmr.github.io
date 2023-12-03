@@ -1,8 +1,7 @@
 # Portfólio
-# Table of Contents
-
 [English](../index.md) | [Português](pt/indexpt.md)
 
+# Índice
 - [Sobre mim](#about-me)
 - [Projetos](#projects)
 - [Contatos](#contact-me)
