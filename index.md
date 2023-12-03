@@ -1,7 +1,3 @@
-# My Data Science Portfolio (UNDER CONSTRUCTION)
-
-This is my (Under Construction) data science portfolio, where I showcase my data science studies, projects and skills.
-
 ## Table of Contents
 
 - [About Me](#about-me)
@@ -38,4 +34,4 @@ If you have any questions or want to connect with me, you can reach me at:
 - **LinkedIn:** Insert a link to your LinkedIn profile, if available.
 - **GitHub:** Insert a link to your GitHub profile, if available.
 
-Thanks for visiting my portfolio! 
+Thanks for visiting my portfolio!
