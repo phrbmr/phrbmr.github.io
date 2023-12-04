@@ -27,6 +27,13 @@ Análise Exploratória de Dados Socioeconômicos
 - **Ferramentas:** O estudo foi feito utilizando R no ambiente RStudio, com dplyr e ggplot2 packages.
 - **Link:** [Mini-Projeto 1](projects/MiniProjeto1.html)
 
+## Game Development
+
+### 2048
+- **Descrição:** Um simples jogo de 2047
+- **Ferramentas:** HTML, CSS e JavaScript
+- **Link**: [2048](projects/2048/2048game.html)
+
 # Contato
 
 
