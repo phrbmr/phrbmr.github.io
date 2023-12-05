@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>2D Vector Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>2D Vector Calculator</h1>
+    <div id="vector-inputs">
+        <table>
+            <tr>
+                <div class="vector-input">
+                    <label>v = [</label>
+                    <input type="number" id="vector1-x" placeholder="x1">
+                    <input type="number" id="vector1-y" placeholder="y1">
+                    <label>]</label>
+                </div>
+
+                <div class="vector-input">
+                    <label>u = [</label>
+                    <input type="number" id="vector2-x" placeholder="x2">
+                    <input type="number" id="vector2-y" placeholder="y2">
+                    <label>]</label>
+                </div>
+            </tr>
+        </table>
+
+        <div class="operation-buttons">
+            
+            <button onclick="addVectors()">Add Vectors</button>
+            <button onclick="subtractVectors()">Subtract Vectors</button>
+        </div>
+        <div>
+            <input type="number" id="scalar-value" placeholder="Scalar Value">
+        </div>
+        <div>
+            <button onclick="scalarMultiply('vector1')">Multiply Vector v</button>
+            <button onclick="scalarMultiply('vector2')">Multiply Vector u</button>
+        </div>
+        <!-- More buttons for other operations -->
+    </div>
+    <canvas id="vector-canvas" width="400" height="400"></canvas>
+    <script src="VectorCalculator.js"></script>
+</body>
+</html>

@@ -26,12 +26,17 @@ Here are some of the projects I have worked on:
 - **Tools used:** The study was made using R in the RStudio enviroment, with dplyr and ggplot2 packages.
 - **Link to project:** [Mini-Projeto 1](projects/MiniProjeto1.html)
 
-## Game Development
-
+## Miscellaneous
 ### 2048
 - **Description:** A simple 2048 game
 - **Tools used:** HTML, CSS and JavaScript
 - **Link to project**: [2048](projects/2048/2048game.html)
+
+### 2D Vector Calculator
+- **Description:** A simple calculator for addition, subtraction and scalar multiplication of 2D Vectors
+- **Tools used:** HTML, CSS and JavaScript
+- **Link to project**: [2D Vector Calculator](projects/VectorCalculator/VectorCalculator.html)
+
 
 # Contact Me
 
