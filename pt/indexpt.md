@@ -27,6 +27,21 @@ Análise Exploratória de Dados Socioeconômicos
 - **Ferramentas:** O estudo foi feito utilizando R no ambiente RStudio, com dplyr e ggplot2 packages.
 - **Link:** [Mini-Projeto 1](projects/MiniProjeto1.html)
 
+#### Big Data in Practice 2 - 
+Influência do PIB e da desigualdade na Netflix
+
+- **Description:** O objetivo deste laboratório é trabalhar com 7 fontes de dados diferentes, realizando a limpeza, organização e combinação dos dados e, ao final, construir uma web app de dashboard analítico para compreender a relação da Netflix com o PIB e indicadores de desigualdade social.
+- **Data Source:** 
+	 1- https://datasets.imdbws.com/
+	 2- https://www.comparitech.com/blog/vpn-privacy/countries-netflix-cost/
+	 3- https://data.worldbank.org/indicator/
+	 4- https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LM4OWF
+	 5- https://top10.netflix.com/
+	 6- https://www.comparitech.com/tv-streaming/netflix-subscribers/
+	 7- https://www.kaggle.com/andradaolteanu/iso-country-codes-global
+- **Tools used:** The study was made using R in the RStudio enviroment, with a interactive webapp built with shiny and plotly.
+- **Link to project:** [Big Data 2](projects/MiniProjeto1.html)
+
 ## Diversos
 
 ### 2048
