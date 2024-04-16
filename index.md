@@ -30,13 +30,13 @@ Here are some of the projects I have worked on:
 
 - **Description:** The objective of this laboratory is to work with 7 different data sources, cleaning, organizing and combining the data and, in the end, building an analytical dashboard web app to understand Netflix's relationship with GDP and indicators of social inequality.
 - **Data Source:** 
-	 1- https://datasets.imdbws.com/
-	 2- https://www.comparitech.com/blog/vpn-privacy/countries-netflix-cost/
-	 3- https://data.worldbank.org/indicator/
-	 4- https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LM4OWF
-	 5- https://top10.netflix.com/
-	 6- https://www.comparitech.com/tv-streaming/netflix-subscribers/
-	 7- https://www.kaggle.com/andradaolteanu/iso-country-codes-global
+1- https://datasets.imdbws.com/
+2- https://www.comparitech.com/blog/vpn-privacy/countries-netflix-cost/
+3- https://data.worldbank.org/indicator/
+4- https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LM4OWF
+5- https://top10.netflix.com/
+6- https://www.comparitech.com/tv-streaming/netflix-subscribers/
+7- https://www.kaggle.com/andradaolteanu/iso-country-codes-global
 - **Tools used:** The study was made using R in the RStudio enviroment, with a interactive webapp built with shiny and plotly.
 - **Link to project:** [Big Data 2](projects/MiniProjeto1.html)
 
