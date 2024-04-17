@@ -258,7 +258,7 @@ View(countrytree)
 write.csv(countrytree, "datasets_limpos/dataset6.csv", row.names = FALSE)
 
 
-#### 3. Web App
+#### 3. Web App ####
 # Limpando o ambiente de trabalho
 rm(list = ls())
 gc()
@@ -451,4 +451,4 @@ server <- function(input, output) {
 
 ## Executa a app ####
 shinyApp(ui, server)
-rsconnect::deployApp('path/to/your/app')
+rsconnect::deployApp('D:/GitHub/phrbmr.github.io/projects/Bigdata2')
