@@ -1,10 +1,13 @@
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
+
 remote_theme: pages-themes/minimal@v0.2.0
+
 relative_links:
   enabled: true
   collections: true
+
 include:
   - CONTRIBUTING.md
   - README.md
@@ -17,4 +20,5 @@ include:
 
 title: [Phrbmr Hub]
 description: ["Personal page to showcase studies & projects."]
+permalink: /404.html
 google_analytics: [G-JXDYF8H64Y]
