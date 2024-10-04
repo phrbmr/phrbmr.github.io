@@ -57,6 +57,7 @@ Here are some of the projects I have worked on:
 If you have any questions or want to connect with me, you can reach me at:
 
 - **LinkedIn:** [linkedin.com/in/pedro-henrique-bandeira-de-mello](https://br.linkedin.com/in/pedro-henrique-bandeira-de-mello-3a7705211)
-- **GitHub:** [https://github.com/phrbmr/](https://github.com/phrbmr/)
+- **GitHub:** [github.com/phrbmr/](https://github.com/phrbmr/)
+- **Kaggle** [kaggle.com/phrbmr/](https://www.kaggle.com/phrbmr/)
 
 Thanks for visiting my portfolio!
