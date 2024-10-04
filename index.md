@@ -8,9 +8,9 @@
 
 # About Me
 
-Welcome to my portfolio, where I share my projects, studies and experiences in the world of technology and data science.
+Hello and welcome to my page!
 
-I am Pedro Bandeira de Mello, an eternal student in the areas of Law and Computer Science. 
+I´m Pedro and here I´ll try to share my projects, studies and experiences in the world of technology, data science and anything else. 
 
 # Projects
 
