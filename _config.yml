@@ -19,6 +19,6 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 title: [Phrbmr Hub]
-google_analytics: "G-JXDYF8H64Y"
+google_analytics: G-JXDYF8H64Y
 description: ["Personal page to showcase studies & projects."]
 permalink: /404.html
