@@ -34,8 +34,8 @@ Here are some of the data science projects I have worked on:
 
 If you have any questions or want to connect with me, you can reach me at:
 
-- **Email:** Insert your email address here.
-- **LinkedIn:** Insert a link to your LinkedIn profile, if available.
-- **GitHub:** Insert a link to your GitHub profile, if available.
+- **Email:** linkedin.com/in/pedro-henrique-bandeira-de-mello
+- **LinkedIn:** github.com/phrbmr/
+- **GitHub:** kaggle.com/phrbmr/
 
 Thanks for visiting my portfolio! 
