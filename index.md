@@ -51,6 +51,10 @@ Here are some of the projects I have worked on:
 - **Tools used:** HTML, CSS and JavaScript
 - **Link to project**: [2D Vector Calculator](projects/VectorCalculator/VectorCalculator.html)
 
+### Harmonics Explorer
+- **Description:** 
+- **Tools used:** HTML, CSS and JavaScript
+- **Link to project**: [Harmonics](projects/Harmonics/harmonics.html)
 
 # Contact Me
 
