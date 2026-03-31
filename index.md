@@ -52,7 +52,7 @@ Here are some of the projects I have worked on:
 - **Link to project**: [2D Vector Calculator](projects/VectorCalculator/VectorCalculator.html)
 
 ### Harmonics Explorer
-- **Description:** 
+- **Description:** A tool for exploring the many different microtonal scales on Strudel
 - **Tools used:** HTML, CSS and JavaScript
 - **Link to project**: [Harmonics](projects/Harmonics/harmonics.html)
 
